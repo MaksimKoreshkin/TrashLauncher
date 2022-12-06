@@ -1,4 +1,3 @@
 version 1.0.1
 name RPG
 description "RPG игра"
-canupdate "True"
