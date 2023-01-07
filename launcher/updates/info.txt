@@ -1,2 +1,2 @@
-version: 1.0.0
-update-description: Новая версия лаунчера!
+version 1.0.0
+update-description "Новая версия лаунчера!"
