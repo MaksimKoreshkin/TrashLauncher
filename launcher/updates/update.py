@@ -58,3 +58,4 @@ download("https://raw.githubusercontent.com/MaksimKoreshkin/TrashLauncher/main/T
 progress("Распаковка архива...")
 with zipfile.ZipFile("..\TrashLauncher.zip") as zip:
     zip.extractall("..")
+os.remove("update.py")
